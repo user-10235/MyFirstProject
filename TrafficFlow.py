@@ -1,4 +1,4 @@
-import pygame, math, time, random, copy,numpy
+import pygame, random, copy
 from pygame.locals import *
 
 
@@ -2428,4 +2428,3 @@ while running:
 
 
 pygame.quit()
-ser.close()
