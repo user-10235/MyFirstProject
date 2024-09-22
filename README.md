@@ -5,7 +5,7 @@ of the cars are variable and change throughout the simulation. When there is a r
 is a green light, the cars speed up throught the intersections. This simulation can be used to show that traffic flow can be 
 regulated by changing the speeds of the cars as they approach a traffic light. This project is a demonstration of one 
 potential application of variable speed used in traffic to regulate the flow. This approach also includes energy savings as
-an additional solution other than regulationg the traffic. This project can be useful as a visualization for building other 
+an additional solution other than regulating the traffic. This project can be useful as a visualization for building other 
 simulations that include traffic flow regulation and the code can also be improved by adding more variables to the 
 simulation and make it more realistic.
 
