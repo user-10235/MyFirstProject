@@ -1,4 +1,4 @@
-# MyFirstProject
+# Traffic Flow Simulation
 
 My first project is a traffic flow simulation that includes multiple cars driving and going through intersections. The speeds 
 of the cars are variable and change throughout the simulation. When there is a red light, the cars slow down and when there
